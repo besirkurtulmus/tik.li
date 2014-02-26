@@ -1,0 +1,16 @@
+{
+    "name": "besirkurtulmus/tik.li",
+    "description": "A simple PHP & redis based URL Shortener",
+    "minimum-stability": "stable",
+    "license": "The MIT License (MIT)",
+    "authors": [
+        {
+            "name": "A. Besir Kurtulmus",
+            "email": "besirkurtulmus@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "predis/predis": "v0.8.5"
+    }
+}
