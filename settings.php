@@ -5,6 +5,8 @@
  * Time: 11:06 PM
  */
 
+require 'vendor/autoload.php';
+
 class Settings {
 
     public function __construct(){
