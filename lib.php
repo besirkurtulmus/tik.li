@@ -5,6 +5,8 @@
  * Time: 11:27 PM
  */
 
+require_once 'vendor/autoload.php';
+
 include('./settings.php');
 
 class Lib {

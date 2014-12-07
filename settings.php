@@ -5,7 +5,7 @@
  * Time: 11:06 PM
  */
 
-require 'vendor/autoload.php';
+require_once 'vendor/autoload.php';
 
 class Settings {
 
